@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-29T03:44:58.046Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Ags40E6EQlS3JwycXkya" version="20.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-29T05:03:18.021Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="lQMvg6tMYBdgerPjCxvc" version="20.0.3" type="github" pages="2">
   <diagram id="EVU81i42gIE2PRELgSZP" name="Page-1">
     <mxGraphModel dx="1260" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -93,117 +93,38 @@
     </mxGraphModel>
   </diagram>
   <diagram id="h9toAw5A7moBohJLv-0q" name="Page-2">
-    <mxGraphModel dx="3166" dy="3031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2462" dy="2725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OLs2Ah3NFqgqWYayta2k-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="640" width="700" height="510" as="geometry" />
-        </mxCell>
-        <mxCell id="OLs2Ah3NFqgqWYayta2k-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="810" width="200" height="290" as="geometry" />
-        </mxCell>
-        <mxCell id="OLs2Ah3NFqgqWYayta2k-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="810" width="200" height="290" as="geometry" />
-        </mxCell>
-        <mxCell id="OLs2Ah3NFqgqWYayta2k-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OLs2Ah3NFqgqWYayta2k-5" target="OLs2Ah3NFqgqWYayta2k-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OLs2Ah3NFqgqWYayta2k-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OLs2Ah3NFqgqWYayta2k-5" target="OLs2Ah3NFqgqWYayta2k-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OLs2Ah3NFqgqWYayta2k-5" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.application_load_balancer;fillColor=#F58536;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="586" y="690" width="69" height="72" as="geometry" />
-        </mxCell>
-        <mxCell id="OLs2Ah3NFqgqWYayta2k-6" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instance;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="430" y="850" width="60" height="63" as="geometry" />
-        </mxCell>
-        <mxCell id="OLs2Ah3NFqgqWYayta2k-7" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instance;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="760" y="850" width="60" height="63" as="geometry" />
-        </mxCell>
-        <mxCell id="OLs2Ah3NFqgqWYayta2k-8" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instance;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="430" y="930" width="60" height="63" as="geometry" />
-        </mxCell>
-        <mxCell id="OLs2Ah3NFqgqWYayta2k-9" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instance;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="430" y="1010" width="60" height="63" as="geometry" />
-        </mxCell>
-        <mxCell id="OLs2Ah3NFqgqWYayta2k-10" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instance;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="760" y="930" width="60" height="63" as="geometry" />
-        </mxCell>
-        <mxCell id="OLs2Ah3NFqgqWYayta2k-11" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instance;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="760" y="1010" width="60" height="63" as="geometry" />
-        </mxCell>
-        <mxCell id="OLs2Ah3NFqgqWYayta2k-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OLs2Ah3NFqgqWYayta2k-14" target="OLs2Ah3NFqgqWYayta2k-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OLs2Ah3NFqgqWYayta2k-14" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/DNS_Zones.svg;" vertex="1" parent="1">
-          <mxGeometry x="595" y="550" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="OLs2Ah3NFqgqWYayta2k-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=24;" edge="1" parent="1" source="OLs2Ah3NFqgqWYayta2k-16" target="OLs2Ah3NFqgqWYayta2k-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OLs2Ah3NFqgqWYayta2k-16" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/CDN_Profiles.svg;" vertex="1" parent="1">
-          <mxGeometry x="380" y="560" width="68" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="OLs2Ah3NFqgqWYayta2k-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=24;" edge="1" parent="1" source="OLs2Ah3NFqgqWYayta2k-18" target="OLs2Ah3NFqgqWYayta2k-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OLs2Ah3NFqgqWYayta2k-18" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="144" y="500" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OLs2Ah3NFqgqWYayta2k-23" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Listener&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="660" width="360" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OLs2Ah3NFqgqWYayta2k-25" value="&lt;b&gt;Ec2&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="430" y="866" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OLs2Ah3NFqgqWYayta2k-26" value="&lt;b&gt;Ec2&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="430" y="1026.5" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OLs2Ah3NFqgqWYayta2k-27" value="&lt;b&gt;Ec2&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="430" y="946.5" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OLs2Ah3NFqgqWYayta2k-28" value="&lt;b&gt;Ec2&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="760" y="866.5" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OLs2Ah3NFqgqWYayta2k-29" value="&lt;b&gt;Ec2&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="760" y="946.5" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OLs2Ah3NFqgqWYayta2k-30" value="&lt;b&gt;Ec2&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="760" y="1026.5" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OLs2Ah3NFqgqWYayta2k-31" value="&lt;b&gt;AZ -0&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1100" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OLs2Ah3NFqgqWYayta2k-32" value="&lt;b&gt;AZ -1&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="730" y="1100" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OLs2Ah3NFqgqWYayta2k-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="1" source="OLs2Ah3NFqgqWYayta2k-36" target="OLs2Ah3NFqgqWYayta2k-45">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="OLs2Ah3NFqgqWYayta2k-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="1" source="OLs2Ah3NFqgqWYayta2k-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="-168" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="OLs2Ah3NFqgqWYayta2k-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="60" y="-260" width="420" height="190" as="geometry" />
+          <mxGeometry x="60" y="-263" width="420" height="190" as="geometry" />
         </mxCell>
         <mxCell id="OLs2Ah3NFqgqWYayta2k-37" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.application_load_balancer;fillColor=#F58534;gradientColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="105" y="-201" width="69" height="72" as="geometry" />
+          <mxGeometry x="105" y="-204" width="69" height="72" as="geometry" />
         </mxCell>
         <mxCell id="OLs2Ah3NFqgqWYayta2k-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="OLs2Ah3NFqgqWYayta2k-38" target="OLs2Ah3NFqgqWYayta2k-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OLs2Ah3NFqgqWYayta2k-38" value="&lt;b&gt;Frontend&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="79.5" y="-231" width="120" height="30" as="geometry" />
+          <mxGeometry x="79.5" y="-234" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OLs2Ah3NFqgqWYayta2k-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="OLs2Ah3NFqgqWYayta2k-39" target="OLs2Ah3NFqgqWYayta2k-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OLs2Ah3NFqgqWYayta2k-39" value="&lt;b&gt;Backend&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="79.5" y="-129" width="120" height="30" as="geometry" />
+          <mxGeometry x="79.5" y="-132" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OLs2Ah3NFqgqWYayta2k-41" value="Client Facing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="290" y="-231" width="200" height="30" as="geometry" />
+          <mxGeometry x="290" y="-234" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OLs2Ah3NFqgqWYayta2k-43" value="&lt;b&gt;EC2-Facing&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="300" y="-129" width="200" height="30" as="geometry" />
+          <mxGeometry x="300" y="-132" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OLs2Ah3NFqgqWYayta2k-45" value="Frontend is facing to the Internet and Backend is facing to EC2&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="540" y="-202.5" width="310" height="75" as="geometry" />
@@ -273,12 +194,6 @@
         <mxCell id="OLs2Ah3NFqgqWYayta2k-65" value="&lt;b&gt;ssh&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1158" y="-206" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OLs2Ah3NFqgqWYayta2k-67" value="Subnet" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_subnet;strokeColor=#879196;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="830" width="130" height="250" as="geometry" />
-        </mxCell>
-        <mxCell id="OLs2Ah3NFqgqWYayta2k-68" value="Subnet" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_subnet;strokeColor=#879196;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="725" y="830" width="130" height="250" as="geometry" />
-        </mxCell>
         <mxCell id="OLs2Ah3NFqgqWYayta2k-70" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1560" y="-290" width="340" height="223.5" as="geometry" />
         </mxCell>
@@ -321,14 +236,60 @@
         <mxCell id="OLs2Ah3NFqgqWYayta2k-84" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.device_health;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="358" y="200" width="50" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="OLs2Ah3NFqgqWYayta2k-86" value="ELB send health check message to the EC2 instance at regulars interval to know status of the EC2 instance if EC2 instance will not response then it registered as an unhealthy and if it response then it registered as a healthy and it ensure that it only forward traffic to the healthy instances.&amp;nbsp;&lt;br&gt;&lt;br&gt;Healthy -&amp;gt; In service status&lt;br&gt;Unhealthy -&amp;gt; Out of service&lt;br&gt;&lt;br&gt;Healthy Threshold&amp;nbsp; -&amp;gt; 2&lt;br&gt;unhealthy Threshold -&amp;gt; 3&lt;br&gt;Time out&amp;nbsp; -&amp;gt; 5 sec&lt;br&gt;Interval -&amp;gt; 30 sec&lt;br&gt;Success Code -&amp;gt; 200&lt;br&gt;&lt;br&gt;LB send health check message to the EC2 at every 30 sec and it wait for 5 second which is time out&amp;nbsp; for response and if it does not get then it send again as per healthy threshold count it now it does not got then declared as a unhealthy.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="OLs2Ah3NFqgqWYayta2k-86" value="ELB send health check message to the EC2 instance at regulars interval to know status of the EC2 instance if EC2 instance will not response then it registered as an unhealthy and if it response then it registered as a healthy and it ensure that it only forward traffic to the healthy instances.&amp;nbsp;&lt;br&gt;&lt;br&gt;Healthy -&amp;gt; In service status&lt;br&gt;Unhealthy -&amp;gt; Out of service&lt;br&gt;&lt;br&gt;Healthy Threshold&amp;nbsp; -&amp;gt; 2&lt;br&gt;unhealthy Threshold -&amp;gt; 3&lt;br&gt;Time out&amp;nbsp; -&amp;gt; 5 sec&lt;br&gt;Interval -&amp;gt; 30 sec&lt;br&gt;Success Code -&amp;gt; 200&lt;br&gt;&lt;br&gt;LB send health check message to the EC2 at every 30 sec and it wait for 5 second which is time out&amp;nbsp; for response and if it does not get then it send again as per healthy threshold count it now it does not got then declared as a unhealthy.&amp;nbsp;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="490" y="110" width="1750" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="OLs2Ah3NFqgqWYayta2k-87" value="ELB charged per hour&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="60" y="-290" width="420" height="30" as="geometry" />
+        <mxCell id="OLs2Ah3NFqgqWYayta2k-87" value="ELB charged per hour&amp;nbsp;&lt;br&gt;Each&amp;nbsp; ELB name must be unique in AWS account.&lt;br&gt;&amp;nbsp;If you want to balance load among different EC2 then they all should be in same region and can be in different availability zone&amp;nbsp;&lt;br&gt;&lt;br&gt;If you want to balance load between two regions then Route 3 can do this&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="385.5" y="-730" width="1405" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="OLs2Ah3NFqgqWYayta2k-91" value="&lt;h1&gt;Load Balancer&amp;nbsp;&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="640" width="852" height="570" as="geometry" />
+        <mxCell id="OLs2Ah3NFqgqWYayta2k-93" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="385.5" y="580" width="810" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="OLs2Ah3NFqgqWYayta2k-94" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="385.5" y="720" width="361" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="OLs2Ah3NFqgqWYayta2k-95" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="834.5" y="720" width="361" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="OLs2Ah3NFqgqWYayta2k-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="OLs2Ah3NFqgqWYayta2k-96" target="OLs2Ah3NFqgqWYayta2k-94">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="566.5" y="626" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OLs2Ah3NFqgqWYayta2k-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="OLs2Ah3NFqgqWYayta2k-96" target="OLs2Ah3NFqgqWYayta2k-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OLs2Ah3NFqgqWYayta2k-96" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.application_load_balancer;fillColor=#F58534;gradientColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="757" y="590" width="69" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="OLs2Ah3NFqgqWYayta2k-97" value="EC2" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instance;fillColor=#F58534;gradientColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="436.5" y="760" width="60" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="OLs2Ah3NFqgqWYayta2k-98" value="EC2" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instance;fillColor=#F58534;gradientColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="546.5" y="760" width="60" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="OLs2Ah3NFqgqWYayta2k-99" value="EC2" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instance;fillColor=#F58534;gradientColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="564.5" y="880" width="60" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="OLs2Ah3NFqgqWYayta2k-100" value="EC2" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instance;fillColor=#F58534;gradientColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="449.5" y="880" width="60" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="OLs2Ah3NFqgqWYayta2k-102" value="EC2" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instance;fillColor=#F58534;gradientColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="636.5" y="810" width="60" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="OLs2Ah3NFqgqWYayta2k-103" value="EC2" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instance;fillColor=#F58534;gradientColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="866.5" y="760" width="60" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="OLs2Ah3NFqgqWYayta2k-104" value="EC2" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instance;fillColor=#F58534;gradientColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1079" y="790" width="60" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="OLs2Ah3NFqgqWYayta2k-105" value="EC2" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instance;fillColor=#F58534;gradientColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="956.5" y="853" width="60" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="OLs2Ah3NFqgqWYayta2k-109" value="&lt;h1&gt;Cross Zone Load Balancing&amp;nbsp;&lt;/h1&gt;&lt;div&gt;By default the ELB send equal amount of traffic into the AZ&#39;s. Means if it got 10 request then it forward&amp;nbsp; request in one AZ and 5 in another. But if you enable cross zone load balancing then it will forward traffic based on ec2 instances you have registered so all EC2 instaces will get same chunk of traffic See in example&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1204.5" y="616.5" width="930" height="350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
