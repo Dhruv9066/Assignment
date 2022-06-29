@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-29T02:25:37.492Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="P0lLDxCyyFpY45686lyl" version="20.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-29T02:29:21.559Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Jfk7fMK9KWpGsYgZ6vu5" version="20.0.3" type="github" pages="2">
   <diagram id="EVU81i42gIE2PRELgSZP" name="Page-1">
     <mxGraphModel dx="1260" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -93,7 +93,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="h9toAw5A7moBohJLv-0q" name="Page-2">
-    <mxGraphModel dx="2770" dy="2859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1583" dy="2343" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -321,8 +321,8 @@
         <mxCell id="OLs2Ah3NFqgqWYayta2k-84" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.device_health;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="358" y="200" width="50" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="OLs2Ah3NFqgqWYayta2k-86" value="ELB send health check message to the EC2 instance at regulars interval to know status of the EC2 instance if EC2 instance will not response then it registered as an unhealthy and if it response then it registered as a healthy and it ensure that it only forward traffic to the healthy instances.&amp;nbsp;&lt;br&gt;&lt;br&gt;Healthy -&amp;gt; In service status&lt;br&gt;Unhealthy -&amp;gt; Out of service&lt;br&gt;&lt;br&gt;Healthy Threshold&amp;nbsp; -&amp;gt; 2&lt;br&gt;unhealthy Threshold -&amp;gt; 3&lt;br&gt;Time out&amp;nbsp; -&amp;gt; 5 sec&lt;br&gt;Interval -&amp;gt; 30 sec&lt;br&gt;Success Code -&amp;gt; 200&lt;br&gt;&lt;br&gt;LB send health check message to the EC2 at every 30 sec and if it got 2 healthy threshold then it declerd as healthy instance&amp;nbsp;&amp;nbsp;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="490" y="130" width="1750" height="430" as="geometry" />
+        <mxCell id="OLs2Ah3NFqgqWYayta2k-86" value="ELB send health check message to the EC2 instance at regulars interval to know status of the EC2 instance if EC2 instance will not response then it registered as an unhealthy and if it response then it registered as a healthy and it ensure that it only forward traffic to the healthy instances.&amp;nbsp;&lt;br&gt;&lt;br&gt;Healthy -&amp;gt; In service status&lt;br&gt;Unhealthy -&amp;gt; Out of service&lt;br&gt;&lt;br&gt;Healthy Threshold&amp;nbsp; -&amp;gt; 2&lt;br&gt;unhealthy Threshold -&amp;gt; 3&lt;br&gt;Time out&amp;nbsp; -&amp;gt; 5 sec&lt;br&gt;Interval -&amp;gt; 30 sec&lt;br&gt;Success Code -&amp;gt; 200&lt;br&gt;&lt;br&gt;LB send health check message to the EC2 at every 30 sec and it wait for 5 second which is time out&amp;nbsp; for response and if it does not get then it send again as per healthy threshold count it now it does not got then declared as a unhealthy.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="490" y="110" width="1750" height="450" as="geometry" />
         </mxCell>
         <mxCell id="OLs2Ah3NFqgqWYayta2k-87" value="ELB charged per hour&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="82.5" y="-360" width="375" height="30" as="geometry" />
