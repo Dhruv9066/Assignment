@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-29T03:13:30.188Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="xzUXyBbin7DlXQlnSNKn" version="20.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-29T03:44:58.046Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Ags40E6EQlS3JwycXkya" version="20.0.3" type="github" pages="2">
   <diagram id="EVU81i42gIE2PRELgSZP" name="Page-1">
     <mxGraphModel dx="1260" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -325,7 +325,7 @@
           <mxGeometry x="490" y="110" width="1750" height="450" as="geometry" />
         </mxCell>
         <mxCell id="OLs2Ah3NFqgqWYayta2k-87" value="ELB charged per hour&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="82.5" y="-360" width="375" height="30" as="geometry" />
+          <mxGeometry x="60" y="-290" width="420" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OLs2Ah3NFqgqWYayta2k-91" value="&lt;h1&gt;Load Balancer&amp;nbsp;&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1030" y="640" width="852" height="570" as="geometry" />
