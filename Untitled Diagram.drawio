@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T21:25:12.596Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="IA5wJUzM3VIYhp8zKdB9" version="20.1.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-07-22T01:26:17.968Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="d5FGN19BaJatKjHrBVny" version="20.1.3" type="github" pages="5">
   <diagram id="EVU81i42gIE2PRELgSZP" name="Page-1">
-    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1108" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -463,6 +463,96 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="YyugYCnVzRwdfKTayEWg" name="Page-5">
+    <mxGraphModel dx="1108" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fLMU8ZJ4M-LDH50BIMwi-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="10" width="810" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="fLMU8ZJ4M-LDH50BIMwi-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="84.5" width="230" height="245" as="geometry" />
+        </mxCell>
+        <mxCell id="fLMU8ZJ4M-LDH50BIMwi-3" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Node 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="70" width="330" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fLMU8ZJ4M-LDH50BIMwi-6" value="ETCD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="99.5" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fLMU8ZJ4M-LDH50BIMwi-7" value="Scheduler" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="99.5" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fLMU8ZJ4M-LDH50BIMwi-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fLMU8ZJ4M-LDH50BIMwi-8" target="fLMU8ZJ4M-LDH50BIMwi-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="207" />
+              <mxPoint x="370" y="153" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fLMU8ZJ4M-LDH50BIMwi-8" value="API Server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="177" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fLMU8ZJ4M-LDH50BIMwi-9" value="Control Manager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="259.5" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fLMU8ZJ4M-LDH50BIMwi-10" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="102" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="fLMU8ZJ4M-LDH50BIMwi-15" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_1;" vertex="1" parent="1">
+          <mxGeometry x="626" y="114" width="48" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="fLMU8ZJ4M-LDH50BIMwi-19" value="Kube Proxy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="84.5" width="70" height="45.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fLMU8ZJ4M-LDH50BIMwi-20" value="Kubectl" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="130" width="70" height="45.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fLMU8ZJ4M-LDH50BIMwi-32" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Node 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="199.5" width="330" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fLMU8ZJ4M-LDH50BIMwi-33" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="231.5" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="fLMU8ZJ4M-LDH50BIMwi-34" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_1;" vertex="1" parent="1">
+          <mxGeometry x="626" y="243.5" width="48" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="fLMU8ZJ4M-LDH50BIMwi-35" value="Kube Proxy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="214" width="70" height="45.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fLMU8ZJ4M-LDH50BIMwi-36" value="Kubectl" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="259.5" width="70" height="45.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fLMU8ZJ4M-LDH50BIMwi-38" value="Container Runtime" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="20" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLMU8ZJ4M-LDH50BIMwi-39" value="C&lt;br&gt;N&lt;br&gt;I" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="85" width="30" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="fLMU8ZJ4M-LDH50BIMwi-40" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.1;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fLMU8ZJ4M-LDH50BIMwi-39" target="fLMU8ZJ4M-LDH50BIMwi-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="170" as="sourcePoint" />
+            <mxPoint x="480" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fLMU8ZJ4M-LDH50BIMwi-41" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.1;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="433" y="258.5" as="sourcePoint" />
+            <mxPoint x="480" y="258.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fLMU8ZJ4M-LDH50BIMwi-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fLMU8ZJ4M-LDH50BIMwi-8" target="fLMU8ZJ4M-LDH50BIMwi-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="207" />
+              <mxPoint x="370" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
