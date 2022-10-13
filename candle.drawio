@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T01:53:39.269Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="lzBSbfp7VW_1Ve1rqdbA" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-13T02:23:52.913Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="rsg9O5d2lsaAlk9tnjmx" version="20.4.0" type="github">
   <diagram id="h9bAmnUel5tqnT0y4ZWO" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KAJTuQCDLY8XCAWW465p-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="750" y="170" width="40" height="50" as="geometry" />
+          <mxGeometry x="750" y="180" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KAJTuQCDLY8XCAWW465p-8" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="KAJTuQCDLY8XCAWW465p-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -44,6 +44,60 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="918" y="430" as="sourcePoint" />
             <mxPoint x="930" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAJTuQCDLY8XCAWW465p-15" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="690" y="500" width="660" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="KAJTuQCDLY8XCAWW465p-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="750" y="640" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KAJTuQCDLY8XCAWW465p-17" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="KAJTuQCDLY8XCAWW465p-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="769.5" y="740" as="sourcePoint" />
+            <mxPoint x="769.5" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAJTuQCDLY8XCAWW465p-18" value="&lt;h1&gt;Spinning Top&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;ul style=&quot;&quot;&gt;&lt;li style=&quot;&quot;&gt;Basic Criteria: Small real body - black or white&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Market Implication: Immediately preceding trend losing momentum.&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Support or Resistance: Not used&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="880" y="570" width="460" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="KAJTuQCDLY8XCAWW465p-20" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;fontSize=15;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KAJTuQCDLY8XCAWW465p-15" target="KAJTuQCDLY8XCAWW465p-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="918" y="790" as="sourcePoint" />
+            <mxPoint x="930" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAJTuQCDLY8XCAWW465p-22" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="640" as="sourcePoint" />
+            <mxPoint x="770.5" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAJTuQCDLY8XCAWW465p-23" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="700" y="910" width="660" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="KAJTuQCDLY8XCAWW465p-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1050" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="KAJTuQCDLY8XCAWW465p-25" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" target="KAJTuQCDLY8XCAWW465p-24" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="779.5" y="1150" as="sourcePoint" />
+            <mxPoint x="779.5" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAJTuQCDLY8XCAWW465p-26" value="&lt;h1&gt;DOJI&lt;/h1&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;ul style=&quot;&quot;&gt;&lt;li style=&quot;&quot;&gt;Basic Criteria:&amp;nbsp;&amp;nbsp;Market in up or down trend Open and close prices are the same (or nearly the same)&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Market Implication: Market at a point of indecision&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Support or Resistance:&lt;br&gt;Highest high of doji and prior&lt;br&gt;candle for resistance. Not used as&lt;br&gt;support&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="890" y="980" width="460" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="KAJTuQCDLY8XCAWW465p-27" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;fontSize=15;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" source="KAJTuQCDLY8XCAWW465p-23" target="KAJTuQCDLY8XCAWW465p-23" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="928" y="1200" as="sourcePoint" />
+            <mxPoint x="940" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAJTuQCDLY8XCAWW465p-28" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="1050" as="sourcePoint" />
+            <mxPoint x="780.5" y="990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
