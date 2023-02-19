@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-19T16:51:31.932Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Xn-Mb784tfObEmme5nLc" version="20.8.20" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-19T16:52:07.262Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="fQWh06stH-aODNsftH0I" version="20.8.20" type="github" pages="2">
   <diagram id="3UhVmCcHijB_X3TgjhHq" name="CDN">
     <mxGraphModel dx="1194" dy="648" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -457,6 +457,12 @@
         </mxCell>
         <mxCell id="CjNejBbu1n0jWAS8T4GK-36" value="IOC" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;fontSize=48;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="995.5" y="6800" width="367" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CjNejBbu1n0jWAS8T4GK-38" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=9;fontSize=48;" vertex="1" parent="1">
+          <mxGeometry x="-294" y="7560" width="1874" height="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="CjNejBbu1n0jWAS8T4GK-39" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;fontSize=48;" vertex="1" parent="1">
+          <mxGeometry x="80" y="7910" width="270" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
